@@ -1,0 +1,30 @@
+.not-found-container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-image {
+  height: 250px;
+  width: 250px;
+}
+.apply-dark-color2 {
+  background-color: #000000;
+}
+.apply-light-color2 {
+  background-color: #ffffff;
+}
+.dark-heading {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.light-heading {
+  color: #171f46;
+  margin-bottom: 20px;
+}
+.text {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 18px;
+}
